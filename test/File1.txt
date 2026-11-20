@@ -1,14 +1,1 @@
-testing line
-untestig file
-commit test
-456
-789.
-Add line
-<<<<<<< HEAD
-
-
-1
-new branch line
-=======
->>>>>>> b2d24ef730bc8ed7bdc14f58dceb383600c55019
-second branch line
+first line
